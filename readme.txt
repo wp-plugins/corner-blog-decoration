@@ -5,7 +5,7 @@ Donate link: http://www.noeonline.info/
 Tags: corner, blog, decoration
 Requires at least: 2.8
 Tested up to: 3.0.1
-Stable Tag: 3.0.1
+Stable Tag: 1.0
 
 This plugin will create an decoration on your blog at the corner of user browser like a blogspot blog.
 
