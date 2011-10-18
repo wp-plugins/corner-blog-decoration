@@ -7,11 +7,11 @@ Requires at least: 2.8
 Tested up to: 3.2.1
 Stable Tag: 1.1
 
-This plugin will create an decoration on your blog at the corner of user browser like a blogspot blog.
+This plugin will create an decoration on your blog at the corner of user browser.
 
 == Description ==
 
-This plugin will create an decoration on your blog at the corner of user browser like a blogspot blog. You can customize these decoration. Let's check the screenshot for an example. The decoration menu can be found on <a href="tools.php?page=corner-blog-decoration.php">Tools > Blog Decoration</a>.
+This plugin will create an decoration on your blog at the corner of user browser. You can customize these decoration. Let's check the screenshot for an example. The decoration menu can be found on <a href="tools.php?page=corner-blog-decoration.php">Tools > Blog Decoration</a>.
 
 == Installation ==
 
